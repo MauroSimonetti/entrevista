@@ -1,0 +1,20 @@
+{
+    "alumnos": [
+        {
+            "dni": "11.111.111",
+            "nombre": "Jane"
+        },
+        {
+            "dni": "22.222.222",
+            "nombre": "Mauro"
+        },
+        {
+            "dni": "33.333.333",
+            "nombre": "Daniel"
+        },
+        {
+            "dni": "44.444.444",
+            "nombre": "Gastón"
+        }
+    ]
+}
